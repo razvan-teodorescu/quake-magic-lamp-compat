@@ -1,0 +1,8 @@
+{
+  "uuid": "quake-magic-lamp-compat@razvan-teodorescu.github.io",
+  "name": "Quake Magic Lamp Compatibility",
+  "description": "Disables Compiz-like Magic Lamp minimize and restore effects specifically for Quake Terminal, with independent controls for each direction.",
+  "shell-version": ["48"],
+  "settings-schema": "org.gnome.shell.extensions.quake-magic-lamp-compat",
+  "url": "https://github.com/razvan-teodorescu/quake-magic-lamp-compat"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema
+    id="org.gnome.shell.extensions.quake-magic-lamp-compat"
+    path="/org/gnome/shell/extensions/quake-magic-lamp-compat/">
+
+    <key name="disable-on-minimize" type="b">
+      <default>true</default>
+      <summary>Disable Magic Lamp on minimize</summary>
+      <description>
+        Prevent the Magic Lamp minimize animation from affecting the Quake Terminal window.
+      </description>
+    </key>
+
+    <key name="disable-on-restore" type="b">
+      <default>true</default>
+      <summary>Disable Magic Lamp on restore</summary>
+      <description>
+        Prevent the Magic Lamp restore animation from affecting the Quake Terminal window.
+      </description>
+    </key>
+
+  </schema>
+</schemalist>
